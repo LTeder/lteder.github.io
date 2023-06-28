@@ -3,11 +3,7 @@
 The source files for my personal website.
 Built from [mmistakes' jekyll-theme-basically-basic](https://github.com/mmistakes/jekyll-theme-basically-basic).
 
-It is currently under construction.
-
----
-
-## License
+### License
 
 The MIT License (MIT)
 
