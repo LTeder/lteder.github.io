@@ -1,7 +1,7 @@
 # Site settings
 lang: en-US
 title: Logan Teder
-email:
+email: l.teder@columbia.edu
 description: Logan Teder's personal website.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://www.loganteder.com/
