@@ -12,4 +12,6 @@ introduction: |
   - Experienced (if not slightly amateur) [musician](https://soundcloud.com/loganted) and [actor](https://charlestonstage.com/helium-cast-2018) with a bit of formal training in each.
   
   Please reach out if you are hiring for engineering or people-oriented roles, or if you would like to collaborate on something. You'll find I'm an apt learner!
+  
+  *<sub>This website is hosted through [GitHub Pages](https://pages.github.com/), source available [here](https://github.com/LTeder/lteder.github.io).</sub>*
 ---
