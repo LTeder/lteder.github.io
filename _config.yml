@@ -1,0 +1,59 @@
+# Site settings
+# These are used to personalize your site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+lang: en-US
+title: Logan Teder
+email:
+description: Logan Teder's personal website.
+baseurl: # the optional subpath of your site, e.g. "/blog"
+url: https://www.loganteder.com/
+author:
+  name: Logan Teder
+  twitter: # None
+  picture:
+twitter_username: # None
+github_username: LTeder
+logo: # path of site logo, e.g. "/assets/images/logo.png"
+
+# Search settings
+search: # true, false (default)
+search_full_content: false # true, false (default)
+search_provider: # lunr (default), algolia
+algolia:
+  application_id: # YOUR_APPLICATION_ID
+  index_name: # YOUR_INDEX_NAME
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: # true (default), false
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-basically-basic
+plugins: # previsously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+#paginate: 10
+#paginate_path: /page:num/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
