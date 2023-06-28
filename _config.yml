@@ -1,8 +1,6 @@
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+
 # Site settings
-# These are used to personalize your site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Logan Teder
 email:
