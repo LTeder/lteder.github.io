@@ -24,6 +24,7 @@ algolia:
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/jekyll-theme-basically-basic@1.4.5
+google_analytics: G-BG5G13Q5F8
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
