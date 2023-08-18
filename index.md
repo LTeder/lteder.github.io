@@ -1,7 +1,7 @@
 ---
 layout: home
 alt_title: "Logan"
-sub_title: "Engineer, Businessguy, Artist"
+sub_title: "Engineering, Business, Art"
 image: /assets/banner.jpg
 introduction: |
   I'm a [young professional](https://www.linkedin.com/in/loganteder/) trying to lead into my next career move. Some things about me:
