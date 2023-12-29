@@ -5,7 +5,7 @@
 .intro {
   margin: 1rem 0;
   padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 
 .intro-image {
@@ -31,7 +31,6 @@
 }
 
 .intro-text {
-
   /* remove space after last child element */
   > *:last-child {
     margin-bottom: 0;
@@ -52,16 +51,15 @@
 
 .intro-actions {
   @include list-unstyled;
-
   li {
     display: inline-block;
   }
 }
 
 .intro-more {
-
   > p:first-child {
-    font-size: 1.125em;
-    line-height: 1.625;
+    margin-top: -1rem;
+    font-size: 1.15em;
+    line-height: 1.25;
   }
 }
