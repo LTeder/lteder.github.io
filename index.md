@@ -4,7 +4,7 @@ alt_title: " "
 #sub_title: "Engineering, Business, Art"
 image: /assets/banner.jpg
 introduction: |
-  I'm a [young professional](https://www.linkedin.com/in/loganteder/) trying to lead into my next career move.
+  I'm a [young professional](https://www.linkedin.com/in/loganteder/) exploring new work opportunities.
   Some things about me:
   
   - Employed at the medical device startup [Blinkcns](https://www.blinkcns.com/) (Charleston, SC) for over four years in various roles involving hardware engineering, programming, management, and design.
