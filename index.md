@@ -7,9 +7,9 @@ introduction: |
   I'm a [young professional](https://www.linkedin.com/in/loganteder/) currently working primarily as a software engineer.
   Some things about me:
   
-  - Employed at the medical device startup [Blinkcns](https://www.blinkcns.com/) (Charleston, SC) for over five years in various roles involving full-stack software engineering, hardware deployment, clinical research, management, and design.
-  - Employed at the consumer technology startup [LUMIQ](https://lumiq.tech/) (also Charleston) since April as an engineer, involving GIS and manufacturing.
-  - Lead inventor of *[Systems and methods for eyelid localization](https://patents.google.com/patent/WO2022251703A2/en)* and *[Systems and methods for determining eye closure status](https://patents.google.com/patent/WO2023154899A1/en)*, both with Blinkcns.
+  - Employed at the consumer technology startup [LUMIQ](https://lumiq.tech/) (Charleston, SC) since April as an engineer, involving GIS and manufacturing.
+  - Employed at the medical device startup [Blinkcns](https://www.blinkcns.com/) (also Charleston) for over five years in various roles involving full-stack software engineering, hardware deployment, clinical research, management, and design.
+  - With Blinkcns: lead inventor of *[Systems and methods for eyelid localization](https://patents.google.com/patent/WO2022251703A2/en)* and *[Systems and methods for determining eye closure status](https://patents.google.com/patent/WO2023154899A1/en)*, inventor of *[A blink reflex monitoring device ](https://patents.google.com/patent/WO2022261316A1/en)*, and lead author of *[BlinkResNet: Cost-Effective Eyelid Localization For Use In A Blink Reflexometer](https://www.worldscientific.com/doi/10.4015/S1016237224500443)*.
   - Graduated from Columbia University in 2023 with a BS in Mechanical Engineering.
   - Experienced [musician](https://soundcloud.com/loganted) and [actor](https://charlestonstage.com/helium-cast-2018) with a bit of formal training in each.
   
