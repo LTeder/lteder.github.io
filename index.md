@@ -7,7 +7,7 @@ introduction: |
   I'm a [young engineer](https://www.linkedin.com/in/loganteder/) looking for work.
   Some things about me:
   
-  - Employed at the consumer technology startup [LUMIQ](https://lumiq.tech/) (Charleston, SC) last year as a contracted engineer, involving GIS software and manufacturing.
+  - Employed at the consumer technology startup [LUMIQ](https://lumiq.tech/) (Charleston, SC) last year as a contracted engineer, involving GIS software engineering and manufacturing.
   - Employed at the medical device startup [Blinkcns](https://www.blinkcns.com/) (also Charleston) for five years in various roles involving full-stack software engineering, data analysis, hardware deployment, clinical research, management, and design.
   - Lead inventor of *[Systems and methods for eyelid localization](https://patents.google.com/patent/WO2022251703A2/en)* and *[Systems and methods for determining eye closure status](https://patents.google.com/patent/WO2023154899A1/en)*, inventor of *[A blink reflex monitoring device ](https://patents.google.com/patent/WO2022261316A1/en)*, and lead author of *[BlinkResNet: Cost-Effective Eyelid Localization For Use In A Blink Reflexometer](https://www.worldscientific.com/doi/10.4015/S1016237224500443)*.
   - Graduated from Columbia University in 2023 with a BS in Mechanical Engineering.
